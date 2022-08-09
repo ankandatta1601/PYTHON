@@ -198,7 +198,80 @@ def sum_of_n(n):
 sum_of_n(1)
 sum_of_n(5)
 
+#Question 10 : Given a number N. Your task is to check whether it is fascinating or not
+
+def fascinating(n):
+
+  ''' n:3 digit Number'''
+
+  print('\n QUESTION 10 : \n')
+  print('+'*50, '\n\n')
+  print('YOUR NUMBER IS : ', n)
+
+  if len(str(n))!= 3:
+    print('THIS INPUT CANNOT BE TAKEN PLEASE ENTER A 3 DIGIT NUMBER....')
+
+  else:
+    z = str(n) + str(n*2) + str(n*3)
+
+    flag = 0
+    for num in z:
+      if len(z)!=9 or z.count(num)>1 or z.count(num) == 0:
+        flag = 1
+        break
+    if flag == 1:
+      print('ANSWER 10 :' + 'THE NUMBER ', n, 'is' + ' ' + 'Not Fascinating')
+    else:
+      print('ANSWER 10 :' + 'THE NUMBER ', n, 'is' + ' ' +'Fascinating')
+
+fascinating(767)
+fascinating(192)
+fascinating(853)
+
+# Bonus Question :
+
+'''Given an array of even size N, task is to find minimum value that can be added to an element so that
+array become balanced. An array is balanced if the sum of the left half of the array elements is equal
+to the sum of right half.'''
 
 
+def bonus(arr):
 
+  ''' arr : array'''
 
+  print('\n BONUS QUESTION : \n')
+  print('+'*50, '\n')
+
+  length = len(arr)
+  arr1 = []
+  arr2 = []
+  count = 0
+  count2 = 0
+  counter = 0
+  n = 0
+  print('ARRAY IS : ', arr)
+  print('LENGTH OF ARRAY IS :', length)
+  if len(arr)%2 == 0:
+    n = int(len(arr)/2)
+    arr1=arr[:n]
+    arr2 = arr[n:]
+    print('ARRAY AFTER 1st SLICE : ', arr1)
+    print('ARRAY AFTER 2nd SLICE : ', arr2)
+    for i in range(0, len(arr1)):
+      count+=arr1[i]
+    for j in range(0, len(arr1)):
+      count2+=arr2[j]
+
+    counter = abs(count-count2)
+    print('SUM OF 1st PART : ', count)
+    print('SUM OF 2nd PART : ', count2)
+    print('THE ANSWER IS : ', counter)
+
+  else:
+    print('PLEASE PUT AN ARRAY OF EVEN LENGTH')
+
+    
+
+bonus([1, 2, 1, 2, 1, 3])
+bonus([1, 5, 3, 2])
+bonus([1, 5, 3, 2, 9])
