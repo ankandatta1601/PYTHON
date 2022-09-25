@@ -20,6 +20,7 @@ def binary_search(arr,target):
     try:
         ln.info('Array is ,: {}'.format(arr))
         ln.info('Target is ,: {}'.format(target))
+        arr.sort()
         low = 0
         ln.info('Initial low Value is,: {}'.format(low))
         high = len(arr) - 1
@@ -27,7 +28,7 @@ def binary_search(arr,target):
         middle = 0
     
         while low <= high:  
-            middle = (high + low) // 2
+            middle = low + (high - low) // 2
             ln.info('Updated Middle Value is,: {}'.format(middle))
             
             # target equals arr[middle], return middle (index of target)
@@ -55,3 +56,12 @@ print(binary_search(arr, 3))
 print(binary_search(arr, key1))
 print(binary_search(arr, key2))
 print(binary_search(arr, key3))
+
+arr2 = [8,9,6,8,52,8,55,74,89,98,54,21,5,8,56,2,1,2,14,14,58,98,65,20,0,200,54,15,48,59,98,36,12,15,54,54,88,54,21,87,7]
+
+print(binary_search(arr2, 3))
+print(binary_search(arr2, 200))
+print(binary_search(arr2, 7))
+print(binary_search(arr2, 55))
+print(binary_search(arr2, 14))
+print(binary_search(arr2, 88))

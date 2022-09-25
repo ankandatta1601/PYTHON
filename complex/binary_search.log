@@ -83,3 +83,164 @@
 2022-09-24 21:31:40,287:INFO:Updated Low Value is,: 3
 2022-09-24 21:31:40,288:INFO:Updated Middle Value is,: 4
 2022-09-24 21:31:40,288:INFO:Updation for Middle Value is,: 4
+2022-09-25 12:56:25,463:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:56:25,464:INFO:Target is ,: 3
+2022-09-25 12:56:25,464:INFO:Initial low Value is,: 0
+2022-09-25 12:56:25,464:ERROR:error occured,: object of type 'NoneType' has no len()
+2022-09-25 12:56:25,464:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:56:25,465:INFO:Target is ,: 1
+2022-09-25 12:56:25,465:INFO:Initial low Value is,: 0
+2022-09-25 12:56:25,465:ERROR:error occured,: object of type 'NoneType' has no len()
+2022-09-25 12:56:25,465:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:56:25,465:INFO:Target is ,: 20
+2022-09-25 12:56:25,465:INFO:Initial low Value is,: 0
+2022-09-25 12:56:25,465:ERROR:error occured,: object of type 'NoneType' has no len()
+2022-09-25 12:56:25,466:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:56:25,467:INFO:Target is ,: 5
+2022-09-25 12:56:25,467:INFO:Initial low Value is,: 0
+2022-09-25 12:56:25,467:ERROR:error occured,: object of type 'NoneType' has no len()
+2022-09-25 12:56:43,321:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:56:43,321:INFO:Target is ,: 3
+2022-09-25 12:56:43,321:INFO:Initial low Value is,: 0
+2022-09-25 12:56:43,321:INFO:Initial high Value is,: 5
+2022-09-25 12:56:43,321:INFO:Updated Middle Value is,: 2
+2022-09-25 12:56:43,321:INFO:Updation for Middle Value is,: 2
+2022-09-25 12:56:43,322:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:56:43,322:INFO:Target is ,: 1
+2022-09-25 12:56:43,322:INFO:Initial low Value is,: 0
+2022-09-25 12:56:43,322:INFO:Initial high Value is,: 5
+2022-09-25 12:56:43,322:INFO:Updated Middle Value is,: 2
+2022-09-25 12:56:43,322:INFO:Updated high Value is,: 1
+2022-09-25 12:56:43,322:INFO:Updated Middle Value is,: 0
+2022-09-25 12:56:43,322:INFO:Updation for Middle Value is,: 0
+2022-09-25 12:56:43,322:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:56:43,322:INFO:Target is ,: 20
+2022-09-25 12:56:43,322:INFO:Initial low Value is,: 0
+2022-09-25 12:56:43,323:INFO:Initial high Value is,: 5
+2022-09-25 12:56:43,323:INFO:Updated Middle Value is,: 2
+2022-09-25 12:56:43,323:INFO:Updated Low Value is,: 3
+2022-09-25 12:56:43,323:INFO:Updated Middle Value is,: 4
+2022-09-25 12:56:43,323:INFO:Updated Low Value is,: 5
+2022-09-25 12:56:43,323:INFO:Updated Middle Value is,: 5
+2022-09-25 12:56:43,323:INFO:Updated Low Value is,: 6
+2022-09-25 12:56:43,323:INFO:Value not found thus returning,: -1
+2022-09-25 12:56:43,324:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:56:43,324:INFO:Target is ,: 5
+2022-09-25 12:56:43,324:INFO:Initial low Value is,: 0
+2022-09-25 12:56:43,324:INFO:Initial high Value is,: 5
+2022-09-25 12:56:43,324:INFO:Updated Middle Value is,: 2
+2022-09-25 12:56:43,324:INFO:Updated Low Value is,: 3
+2022-09-25 12:56:43,324:INFO:Updated Middle Value is,: 4
+2022-09-25 12:56:43,325:INFO:Updation for Middle Value is,: 4
+2022-09-25 12:58:01,269:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:58:01,269:INFO:Target is ,: 3
+2022-09-25 12:58:01,269:INFO:Initial low Value is,: 0
+2022-09-25 12:58:01,269:INFO:Initial high Value is,: 5
+2022-09-25 12:58:01,269:INFO:Updated Middle Value is,: 2
+2022-09-25 12:58:01,269:INFO:Updation for Middle Value is,: 2
+2022-09-25 12:58:01,270:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:58:01,270:INFO:Target is ,: 1
+2022-09-25 12:58:01,270:INFO:Initial low Value is,: 0
+2022-09-25 12:58:01,270:INFO:Initial high Value is,: 5
+2022-09-25 12:58:01,270:INFO:Updated Middle Value is,: 2
+2022-09-25 12:58:01,270:INFO:Updated high Value is,: 1
+2022-09-25 12:58:01,271:INFO:Updated Middle Value is,: 0
+2022-09-25 12:58:01,271:INFO:Updation for Middle Value is,: 0
+2022-09-25 12:58:01,271:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:58:01,271:INFO:Target is ,: 20
+2022-09-25 12:58:01,271:INFO:Initial low Value is,: 0
+2022-09-25 12:58:01,271:INFO:Initial high Value is,: 5
+2022-09-25 12:58:01,271:INFO:Updated Middle Value is,: 2
+2022-09-25 12:58:01,271:INFO:Updated Low Value is,: 3
+2022-09-25 12:58:01,271:INFO:Updated Middle Value is,: 4
+2022-09-25 12:58:01,271:INFO:Updated Low Value is,: 5
+2022-09-25 12:58:01,271:INFO:Updated Middle Value is,: 5
+2022-09-25 12:58:01,271:INFO:Updated Low Value is,: 6
+2022-09-25 12:58:01,272:INFO:Value not found thus returning,: -1
+2022-09-25 12:58:01,272:INFO:Array is ,: [1, 2, 3, 4, 5, 5]
+2022-09-25 12:58:01,272:INFO:Target is ,: 5
+2022-09-25 12:58:01,272:INFO:Initial low Value is,: 0
+2022-09-25 12:58:01,272:INFO:Initial high Value is,: 5
+2022-09-25 12:58:01,272:INFO:Updated Middle Value is,: 2
+2022-09-25 12:58:01,272:INFO:Updated Low Value is,: 3
+2022-09-25 12:58:01,272:INFO:Updated Middle Value is,: 4
+2022-09-25 12:58:01,272:INFO:Updation for Middle Value is,: 4
+2022-09-25 12:58:01,273:INFO:Array is ,: [8, 9, 6, 8, 52, 8, 55, 74, 89, 98, 54, 21, 5, 8, 56, 2, 1, 2, 14, 14, 58, 98, 65, 20, 0, 200, 54, 15, 48, 59, 98, 36, 12, 15, 54, 54, 88, 54, 21, 87, 7]
+2022-09-25 12:58:01,273:INFO:Target is ,: 3
+2022-09-25 12:58:01,273:INFO:Initial low Value is,: 0
+2022-09-25 12:58:01,273:INFO:Initial high Value is,: 40
+2022-09-25 12:58:01,273:INFO:Updated Middle Value is,: 20
+2022-09-25 12:58:01,273:INFO:Updated high Value is,: 19
+2022-09-25 12:58:01,273:INFO:Updated Middle Value is,: 9
+2022-09-25 12:58:01,273:INFO:Updated high Value is,: 8
+2022-09-25 12:58:01,273:INFO:Updated Middle Value is,: 4
+2022-09-25 12:58:01,273:INFO:Updated high Value is,: 3
+2022-09-25 12:58:01,273:INFO:Updated Middle Value is,: 1
+2022-09-25 12:58:01,273:INFO:Updated Low Value is,: 2
+2022-09-25 12:58:01,273:INFO:Updated Middle Value is,: 2
+2022-09-25 12:58:01,273:INFO:Updated Low Value is,: 3
+2022-09-25 12:58:01,273:INFO:Updated Middle Value is,: 3
+2022-09-25 12:58:01,273:INFO:Updated Low Value is,: 4
+2022-09-25 12:58:01,273:INFO:Value not found thus returning,: -1
+2022-09-25 12:58:01,274:INFO:Array is ,: [0, 1, 2, 2, 5, 6, 7, 8, 8, 8, 8, 9, 12, 14, 14, 15, 15, 20, 21, 21, 36, 48, 52, 54, 54, 54, 54, 54, 55, 56, 58, 59, 65, 74, 87, 88, 89, 98, 98, 98, 200]
+2022-09-25 12:58:01,274:INFO:Target is ,: 200
+2022-09-25 12:58:01,274:INFO:Initial low Value is,: 0
+2022-09-25 12:58:01,274:INFO:Initial high Value is,: 40
+2022-09-25 12:58:01,274:INFO:Updated Middle Value is,: 20
+2022-09-25 12:58:01,274:INFO:Updated Low Value is,: 21
+2022-09-25 12:58:01,274:INFO:Updated Middle Value is,: 30
+2022-09-25 12:58:01,274:INFO:Updated Low Value is,: 31
+2022-09-25 12:58:01,274:INFO:Updated Middle Value is,: 35
+2022-09-25 12:58:01,274:INFO:Updated Low Value is,: 36
+2022-09-25 12:58:01,274:INFO:Updated Middle Value is,: 38
+2022-09-25 12:58:01,275:INFO:Updated Low Value is,: 39
+2022-09-25 12:58:01,275:INFO:Updated Middle Value is,: 39
+2022-09-25 12:58:01,275:INFO:Updated Low Value is,: 40
+2022-09-25 12:58:01,275:INFO:Updated Middle Value is,: 40
+2022-09-25 12:58:01,275:INFO:Updation for Middle Value is,: 40
+2022-09-25 12:58:01,275:INFO:Array is ,: [0, 1, 2, 2, 5, 6, 7, 8, 8, 8, 8, 9, 12, 14, 14, 15, 15, 20, 21, 21, 36, 48, 52, 54, 54, 54, 54, 54, 55, 56, 58, 59, 65, 74, 87, 88, 89, 98, 98, 98, 200]
+2022-09-25 12:58:01,275:INFO:Target is ,: 7
+2022-09-25 12:58:01,275:INFO:Initial low Value is,: 0
+2022-09-25 12:58:01,275:INFO:Initial high Value is,: 40
+2022-09-25 12:58:01,275:INFO:Updated Middle Value is,: 20
+2022-09-25 12:58:01,275:INFO:Updated high Value is,: 19
+2022-09-25 12:58:01,276:INFO:Updated Middle Value is,: 9
+2022-09-25 12:58:01,276:INFO:Updated high Value is,: 8
+2022-09-25 12:58:01,276:INFO:Updated Middle Value is,: 4
+2022-09-25 12:58:01,276:INFO:Updated Low Value is,: 5
+2022-09-25 12:58:01,276:INFO:Updated Middle Value is,: 6
+2022-09-25 12:58:01,276:INFO:Updation for Middle Value is,: 6
+2022-09-25 12:58:01,276:INFO:Array is ,: [0, 1, 2, 2, 5, 6, 7, 8, 8, 8, 8, 9, 12, 14, 14, 15, 15, 20, 21, 21, 36, 48, 52, 54, 54, 54, 54, 54, 55, 56, 58, 59, 65, 74, 87, 88, 89, 98, 98, 98, 200]
+2022-09-25 12:58:01,277:INFO:Target is ,: 55
+2022-09-25 12:58:01,277:INFO:Initial low Value is,: 0
+2022-09-25 12:58:01,277:INFO:Initial high Value is,: 40
+2022-09-25 12:58:01,277:INFO:Updated Middle Value is,: 20
+2022-09-25 12:58:01,277:INFO:Updated Low Value is,: 21
+2022-09-25 12:58:01,277:INFO:Updated Middle Value is,: 30
+2022-09-25 12:58:01,277:INFO:Updated high Value is,: 29
+2022-09-25 12:58:01,277:INFO:Updated Middle Value is,: 25
+2022-09-25 12:58:01,277:INFO:Updated Low Value is,: 26
+2022-09-25 12:58:01,277:INFO:Updated Middle Value is,: 27
+2022-09-25 12:58:01,277:INFO:Updated Low Value is,: 28
+2022-09-25 12:58:01,277:INFO:Updated Middle Value is,: 28
+2022-09-25 12:58:01,277:INFO:Updation for Middle Value is,: 28
+2022-09-25 12:58:01,278:INFO:Array is ,: [0, 1, 2, 2, 5, 6, 7, 8, 8, 8, 8, 9, 12, 14, 14, 15, 15, 20, 21, 21, 36, 48, 52, 54, 54, 54, 54, 54, 55, 56, 58, 59, 65, 74, 87, 88, 89, 98, 98, 98, 200]
+2022-09-25 12:58:01,278:INFO:Target is ,: 14
+2022-09-25 12:58:01,278:INFO:Initial low Value is,: 0
+2022-09-25 12:58:01,278:INFO:Initial high Value is,: 40
+2022-09-25 12:58:01,278:INFO:Updated Middle Value is,: 20
+2022-09-25 12:58:01,278:INFO:Updated high Value is,: 19
+2022-09-25 12:58:01,278:INFO:Updated Middle Value is,: 9
+2022-09-25 12:58:01,278:INFO:Updated Low Value is,: 10
+2022-09-25 12:58:01,278:INFO:Updated Middle Value is,: 14
+2022-09-25 12:58:01,278:INFO:Updation for Middle Value is,: 14
+2022-09-25 12:58:01,279:INFO:Array is ,: [0, 1, 2, 2, 5, 6, 7, 8, 8, 8, 8, 9, 12, 14, 14, 15, 15, 20, 21, 21, 36, 48, 52, 54, 54, 54, 54, 54, 55, 56, 58, 59, 65, 74, 87, 88, 89, 98, 98, 98, 200]
+2022-09-25 12:58:01,279:INFO:Target is ,: 88
+2022-09-25 12:58:01,279:INFO:Initial low Value is,: 0
+2022-09-25 12:58:01,279:INFO:Initial high Value is,: 40
+2022-09-25 12:58:01,279:INFO:Updated Middle Value is,: 20
+2022-09-25 12:58:01,279:INFO:Updated Low Value is,: 21
+2022-09-25 12:58:01,279:INFO:Updated Middle Value is,: 30
+2022-09-25 12:58:01,279:INFO:Updated Low Value is,: 31
+2022-09-25 12:58:01,279:INFO:Updated Middle Value is,: 35
+2022-09-25 12:58:01,279:INFO:Updation for Middle Value is,: 35
