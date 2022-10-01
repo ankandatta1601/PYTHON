@@ -1,0 +1,10 @@
+2022-09-26 16:26:44,004:INFO:Array is ,: [1, 2, 3, 4, 4, 5]
+2022-09-26 16:26:44,004:INFO:Target is ,: 6
+2022-09-26 16:26:44,004:INFO:First, second elements with target are : 1, 5, 6
+2022-09-26 16:26:44,004:INFO:First, second elements with target are : 2, 4, 6
+2022-09-26 16:26:44,005:INFO:When target is Lesser First, second elements with target are : 3, 4, 6
+2022-09-26 16:33:59,504:INFO:Array is ,: [1, 2, 3, 4, 4, 5]
+2022-09-26 16:33:59,504:INFO:Target is ,: 6
+2022-09-26 16:33:59,505:INFO:First, second elements with target are : 1, 5, 6
+2022-09-26 16:33:59,505:INFO:First, second elements with target are : 2, 4, 6
+2022-09-26 16:33:59,505:INFO:When target is Lesser First, second elements with target are : 3, 4, 6

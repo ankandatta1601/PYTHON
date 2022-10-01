@@ -9,3 +9,16 @@
 2022-09-24 23:08:11,821:INFO:Array is : [12, 15, 3, 2, 6, 25, 8, 9]
 2022-09-24 23:08:11,821:INFO:Maximum Value(default) is,: 9
 2022-09-24 23:08:11,822:INFO:Updated maximum is,: 25
+2022-09-25 13:44:44,422:INFO:Array is : [16, 17, 4, 3, 5, 2]
+2022-09-25 13:44:44,422:INFO:Maximum Value(default) is,: 2
+2022-09-25 13:44:44,422:INFO:Updated maximum is,: 5
+2022-09-25 13:44:44,423:INFO:Updated maximum is,: 17
+2022-09-25 13:44:44,423:INFO:Array is : [12, 15, 3, 2, 6, 25, 8, 9]
+2022-09-25 13:44:44,424:INFO:Maximum Value(default) is,: 9
+2022-09-25 13:44:44,424:INFO:Updated maximum is,: 25
+2022-09-25 13:44:44,424:INFO:Array is : [8, 9, 6, 8, 52, 8, 55, 74, 89, 98, 54, 21, 5, 8, 56, 2, 1, 2, 14, 14, 58, 98, 65, 20, 0, 200, 54, 15, 48, 59, 98, 36, 12, 15, 54, 54, 88, 54, 21, 87, 7]
+2022-09-25 13:44:44,425:INFO:Maximum Value(default) is,: 7
+2022-09-25 13:44:44,425:INFO:Updated maximum is,: 87
+2022-09-25 13:44:44,425:INFO:Updated maximum is,: 88
+2022-09-25 13:44:44,425:INFO:Updated maximum is,: 98
+2022-09-25 13:44:44,426:INFO:Updated maximum is,: 200

@@ -22,3 +22,8 @@ def leader_element(arr):
         
 print(leader_element(arr))
 print(leader_element([12,15,3,2,6,25,8,9]))
+
+
+arr2 = [8,9,6,8,52,8,55,74,89,98,54,21,5,8,56,2,1,2,14,14,58,98,65,20,0,200,54,15,48,59,98,36,12,15,54,54,88,54,21,87,7]
+
+print(leader_element(arr2))
